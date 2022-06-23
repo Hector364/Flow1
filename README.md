@@ -6,7 +6,3 @@ Hola !!
 
  Este es el primer commit con plugin de Github
 
-
-Copiar Flow 2
-
-Cambio de carpeta en Github
